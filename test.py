@@ -23,7 +23,7 @@ def multiply(a, b=2):
     return a * b
 print(multiply(3))
 """
-
+#振り返り
 def modify_value(x):
     x = x + 1
     return x
