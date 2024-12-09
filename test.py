@@ -36,3 +36,6 @@ def calculate_points(score, bonus=10):
     return score + bonus
 print(calculate_points(80))
 print(calculate_points(80, 20))
+
+
+print("git確認")
